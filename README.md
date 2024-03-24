@@ -1,0 +1,3 @@
+Linear Regression Assignment
+TWEYONGYERE SARAH
+2023/U/MMU/BCS/00100
